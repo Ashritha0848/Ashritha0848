@@ -78,5 +78,6 @@ Machine Learning • Data Processing • Model Deployment
   <a href="https://www.linkedin.com/in/ashritha-pulyala-043b5633a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  </a> <a href="mailto:ashrithapulyala561@gmail.com"> <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
