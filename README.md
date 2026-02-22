@@ -46,14 +46,6 @@ Machine Learning • Data Processing • Model Deployment
 
 ---
 
- 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashritha0848&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashritha0848&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
  🌱 Currently Learning
 
