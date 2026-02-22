@@ -74,15 +74,6 @@ Machine Learning • Data Processing • Model Deployment
 
  🌐 Connect With Me
 
-<p align="center"> <a href="https://linkedin.com/in/www.linkedin.com/in/ashritha-pulyala-043b5633a"> <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center"> <a href="www.linkedin.com/in/ashritha-pulyala-043b5633a"> <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ashrithapulyala561@gmail.com"> <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 ---
 
-✨ Thanks for visiting my profile ✨
-If you want, I can now make:
-
-1️⃣ Soft pink aesthetic theme 🌸
-2️⃣ Dark hacker theme 🖤
-3️⃣ Minimal clean corporate theme 💼
-4️⃣ Strong AI researcher theme 🤖
-
-Tell me the number and I’ll customize it exactly for you 😌
